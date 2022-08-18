@@ -14,15 +14,16 @@ Lalu ketik command dibawah ini
 - php artisan db:seed
 - php artisan storage:link
 
-- Email Verify
-*MAIL_MAILER=smtp
-*MAIL_HOST=smtp.gmail.com
-*MAIL_PORT=587
-*MAIL_USERNAME=your email username (dimasbudiprratama@gmail.com)
-*MAIL_PASSWORD=your email password
-*MAIL_ENCRYPTION=tls
-*MAIL_FROM_ADDRESS=your email address
-*MAIL_FROM_NAME="${APP_NAME}" do not change
+
+Email Verify
+- MAIL_MAILER=smtp
+- MAIL_HOST=smtp.gmail.com
+- MAIL_PORT=587
+- MAIL_USERNAME=your email username (dimasbudiprratama@gmail.com)
+- MAIL_PASSWORD=your email password
+- MAIL_ENCRYPTION=tls
+- MAIL_FROM_ADDRESS=your email address
+- MAIL_FROM_NAME="${APP_NAME}" do not change
 
 # Login
 Admin
