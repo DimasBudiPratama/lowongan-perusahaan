@@ -19,7 +19,7 @@ Email Verify
 - MAIL_MAILER=smtp
 - MAIL_HOST=smtp.gmail.com
 - MAIL_PORT=587
-- MAIL_USERNAME=your email username (dimasbudiprratama@gmail.com)
+- MAIL_USERNAME=your email username (dimasbudipratama007@gmail.com)
 - MAIL_PASSWORD=your email password
 - MAIL_ENCRYPTION=tls
 - MAIL_FROM_ADDRESS=your email address
@@ -28,8 +28,6 @@ Email Verify
 # Login
 Admin
 http://127.0.0.1:8000/login/admin
-- email   : dimasbudipratama12345@gmail.com
-- password : 12345
 
 
 # Fitur
